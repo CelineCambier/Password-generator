@@ -75,3 +75,11 @@ label {
 .btn:hover {
     background-color: #FFFFFF33;
 }
+
+input[type="range"] {
+    accent-color: grey;
+}
+
+input[type="checkbox"] {
+    accent-color: grey;
+}
